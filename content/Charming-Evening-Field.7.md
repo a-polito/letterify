@@ -1,14 +1,14 @@
 ---
 title: Sottobicchieri drink me
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+date: 
+description: "Se la giornata è stata pesante, se stai ascoltando della musica leggerissima
+  o semplicemente vuoi rilassarti in una maniera nuova e très chic questi sottobicchieri
+  sono la risposta giusta per la tua necessità!!! Enjoy \U0001F379\U0001F378\U0001F377\U0001F942"
 type: post
 image: "/images/a7c730e3-7c64-4bf1-8aff-613195e8dfe3.jpeg"
 categories:
-- Food
-tags:
-- Photos
-- Food
+- 'Sottobicchieri '
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
