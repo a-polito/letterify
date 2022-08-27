@@ -1,7 +1,7 @@
 ---
 title: 'Biglietto con il fiocco e diamante '
 date: 
-description: This is meta description
+description: ''
 type: post
 image: "/images/98a28ed1-7fe0-430e-a21f-a00b03d413f0.jpeg"
 categories:
