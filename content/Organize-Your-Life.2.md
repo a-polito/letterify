@@ -2,7 +2,7 @@
 title: Villaggio di Natale
 date: 2019-05-14T08:46:10+00:00
 description: Villaggio di Natale
-type: featured
+type: post
 image: "/images/villaggio_natale.png"
 categories:
 - Natale
