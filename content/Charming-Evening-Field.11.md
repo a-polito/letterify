@@ -5,7 +5,7 @@ description: ''
 type: post
 image: "/images/734ed31e-8c98-4ee5-ad96-66d04c051fbd.jpeg"
 categories:
-- Food
+- Card
 tags: []
 
 ---
