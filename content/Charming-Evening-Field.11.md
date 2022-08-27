@@ -1,14 +1,12 @@
 ---
 title: 'Biglietto con il gatto '
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+date: 
+description: ''
 type: post
 image: "/images/734ed31e-8c98-4ee5-ad96-66d04c051fbd.jpeg"
 categories:
 - Food
-tags:
-- Photos
-- Food
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
