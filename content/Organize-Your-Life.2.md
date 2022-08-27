@@ -3,7 +3,7 @@ title: Villaggio di Natale
 date: 2019-05-14T08:46:10+00:00
 description: Villaggio di Natale
 type: featured
-image: "/images/d4cddb_0cc76893e71a4b9797d006315cb9de1c_mv2.webp"
+image: "/images/villaggio_natale.png"
 categories:
 - Natale
 - Biglietti
