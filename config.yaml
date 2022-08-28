@@ -68,6 +68,9 @@ params:
     URL: "#"
 menu:
   main:
+  - URL: about
+    name: About
+    weight: 1
   - URL: contact
     name: Contact
     weight: 2
