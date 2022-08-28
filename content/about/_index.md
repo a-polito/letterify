@@ -3,6 +3,10 @@ title: About
 date: 2022-07-31T22:00:00+00:00
 description: This is meta description
 image: images/silvia.jpeg
+menu:
+  main:
+    URL: about
+    weight: 1
 
 ---
 # La Creativa 
