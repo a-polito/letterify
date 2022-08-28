@@ -1,6 +1,6 @@
 ---
 title: About
-date: 
+date: 2022-08-30T22:00:00+00:00
 description: This is meta description
 image: images/silvia.jpeg
 
