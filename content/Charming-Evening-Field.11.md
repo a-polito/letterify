@@ -7,7 +7,6 @@ image: "/images/734ed31e-8c98-4ee5-ad96-66d04c051fbd.jpeg"
 categories:
 - Card
 tags: []
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
