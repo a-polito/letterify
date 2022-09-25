@@ -2,8 +2,8 @@
 title: La Creativa
 date: 2022-07-31T22:00:00+00:00
 description: This is meta description
+layout: single
 image: images/silvia.jpeg
-
 ---
 # 
 
