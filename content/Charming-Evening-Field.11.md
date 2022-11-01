@@ -9,9 +9,9 @@ categories:
 tags: []
 
 ---
-Posso realizzare biglietti di auguri in base ai vostri gusti.
+Posso realizzare biglietti di auguri unici per te ed i tuoi cari.
 
-Il costo del biglietto è di 1 euro, al quale potete aggiungere i seguenti servizi:
+Il costo del biglietto è di 1 euro, al quale si possono aggiungere i seguenti servizi:
 
 * scritta a piacere con il lettering - da 0,50 cent
 * busta coordinata - da 0,50 cent
@@ -34,4 +34,6 @@ A titolo di esempio, ho fatto i seguenti biglietti:
 
 ![](/images/98a28ed1-7fe0-430e-a21f-a00b03d413f0.jpeg)
 
-E tu quale
+Con queste immagini spero di averti aiutato a comprendere cosa vuol dire "inserto", ovvero un biglietto che viene fustellato raffigurando un motivo e all'interno un ulteriore foglio o cartoncino che mette in evidenza il motivo scelto. Rendi il tuo biglietto unico inserendo un motivo che ha un significato per te o un tuo caro e scegli il colore che più ti piace.
+
+Contattami per un preventivo personalizzato
