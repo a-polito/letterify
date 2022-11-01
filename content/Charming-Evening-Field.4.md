@@ -15,7 +15,17 @@ Le partecipazioni di matrimonio nascono da un tema, un'idea, una passione, un va
 
 ![](/images/4b17cd3f-6f3a-4fb5-8d6b-5199ac3aa1bb.jpeg)
 
+![](/images/whatsapp-image-2022-11-01-at-19-28-27.jpeg)
+
 1. Per il matrimonio di Daniele e Barbara ho realizzato le partecipazioni di matrimonio a tema pizza. Daniele ha una pizzeria d'asporto, allora non potevamo che partire da un luogo ovvero la pizzeria ed abbiamo creato delle mini pizze di carta. Ringrazio Barbara per avermi seguita in tutta la progettazione e per aver risposto 100 volte "sì/no" nei tanti passaggi: abbiamo costruito tutto insieme ed è stato molto bello.
+
+![](/images/whatsapp-image-2022-11-01-at-19-34-38.jpeg)
+
+![](/images/whatsapp-image-2022-11-01-at-19-40-22.jpeg)
+
+![](/images/whatsapp-image-2022-11-01-at-19-36-02.jpeg)
+
+![](/images/whatsapp-image-2022-11-01-at-19-38-47.jpeg)
 
 Sono strafelice di questi progetti, mi sono divertita tanto e spero di portare un po' di felicità anche ad altre persone.
 
