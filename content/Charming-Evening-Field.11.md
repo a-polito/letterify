@@ -9,6 +9,15 @@ categories:
 tags: []
 
 ---
+Posso realizzare biglietti di auguri in base ai vostri gusti.
+
+Il costo del biglietto è di 1 euro, al quale potete aggiungere i seguenti servizi:
+
+* scritta a piacere con il lettering - da 0,50 cent
+* busta coordinata - da 0,50 cent
+
+A titolo di esempio, ho fatto i seguenti biglietti:
+
 * Biglietto con il gatto
 
 ![](/images/734ed31e-8c98-4ee5-ad96-66d04c051fbd.jpeg)
