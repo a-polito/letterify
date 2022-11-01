@@ -21,7 +21,8 @@ Per l'occasione, posso realizzare i seguenti articoli:
 ![articoli realizzati con cartoncino colorato](/images/villaggio_natale.png "Arredamento casa")
 
 * Biglietti di auguri - 1 Euro per il biglietto (servizi aggiuntivi: busta coordinata e scritta con lettering da 0,50 Cent)
-
-* Segnaposto
-* Sottobicchieri
+* Segnaposto (coming soon)
+* Sottobicchieri (coming soon)
 * Chiudipacco
+
+![](/images/29e68e1d-4125-4f90-bebb-05da08148327.jpeg)
