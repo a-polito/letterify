@@ -18,8 +18,10 @@ Per l'occasione, posso realizzare i seguenti articoli:
 
 * Articoli di arredamento casa
 
-  
 ![articoli realizzati con cartoncino colorato](/images/villaggio_natale.png "Arredamento casa")
 
 * Biglietti di auguri
 * Segnaposto
+
+
+* Sottobicchieri
