@@ -1,7 +1,7 @@
 ---
 title: La Magia Del Natale
 date: 2019-05-14T08:46:10.000+00:00
-description: Villaggio di Natale
+description: Natale
 type: post
 image: ''
 categories:
@@ -21,5 +21,9 @@ Per l'occasione, posso realizzare i seguenti articoli:
 ![articoli realizzati con cartoncino colorato](/images/villaggio_natale.png "Arredamento casa")
 
 * Biglietti di auguri
+
 * Segnaposto
+
 * Sottobicchieri
+
+* Chiudipacco
