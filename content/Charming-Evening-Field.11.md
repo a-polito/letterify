@@ -1,5 +1,5 @@
 ---
-title: 'Biglietto con il gatto '
+title: Biglietti di auguri per il compleanno
 date: 
 description: ''
 type: post
