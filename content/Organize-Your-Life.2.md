@@ -1,5 +1,5 @@
 ---
-title: Villaggio di Natale
+title: La Magia Del Natale
 date: 2019-05-14T08:46:10.000+00:00
 description: Villaggio di Natale
 type: post
@@ -12,6 +12,14 @@ tags:
 - Natale
 
 ---
-Un simpaticissimo villaggio di Natale per rallegrare la tua casa, ogni pezzo ha il pratico foro per poter essere appeso dove vuoi tu ✨. Quello in immagine è già disponibile ma possiamo realizzarlo da zero con i tuoi colori ed elementi preferiti.
+Natale è la mia festa preferita dell'anno.
 
-Il costo è di 10 euro.
+Per l'occasione, posso realizzare i seguenti articoli:
+
+* Articoli di arredamento casa
+
+  
+![articoli realizzati con cartoncino colorato](/images/villaggio_natale.png "Arredamento casa")
+
+* Biglietti di auguri
+* Segnaposto
