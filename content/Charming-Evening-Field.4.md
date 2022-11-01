@@ -1,5 +1,5 @@
 ---
-title: Partecipazioni matrimonio Nicolas & Alessia
+title: Partecipazioni Di Matrimonio Anno 2022
 date: 
 description: ''
 type: post
@@ -9,4 +9,10 @@ categories:
 tags: []
 
 ---
-Partecipazioni di matrimonio a tema viaggi realizzate completamente a mano.
+Le partecipazioni di matrimonio nascono da un tema, un'idea, una passione, un valore e diventano creazioni uniche da condividere con le persone che amate per raccontare qualcosa di voi.
+
+1) Per il matrimonio di Nicolas ed Alessia ho realizzato le partecipazioni di matrimonio a tema viaggio. Siamo partiti dal biglietto aereo e da lì abbiamo progettato tutto il resto.
+
+2) Per il matrimonio di Daniele e Barbara ho realizzato le partecipazioni di matrimonio a tema pizza. Daniele ha una pizzeria d'asporto, allora non potevamo che partire da un luogo ovvero la pizzeria ed abbiamo creato delle mini pizze di carta.
+
+Contattami per un preventivo personalizzato gratuito e vi mostrerò prototipo e materiali da utilizzare, sarete voi a decidere se procedere oppure no.
