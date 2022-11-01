@@ -3,7 +3,7 @@ title: La Magia Del Natale
 date: 2019-05-14T08:46:10.000+00:00
 description: Villaggio di Natale
 type: post
-image: "/images/villaggio_natale.png"
+image: ''
 categories:
 - Natale
 - Biglietti
@@ -22,6 +22,4 @@ Per l'occasione, posso realizzare i seguenti articoli:
 
 * Biglietti di auguri
 * Segnaposto
-
-
 * Sottobicchieri
