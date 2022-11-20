@@ -7,6 +7,11 @@ image: "/images/whatsapp-image-2022-11-01-at-18-11-26.jpeg"
 categories:
 - Card
 tags: []
+gallery:
+- "/images/98a28ed1-7fe0-430e-a21f-a00b03d413f0.jpeg"
+- "/images/44be2687-839a-4ba9-9ec8-353dcdadf4e6.jpeg"
+- "/images/bc1e1dda-7203-4047-ac36-3bebe8ab84e8.jpeg"
+- "/images/whatsapp-image-2022-11-01-at-18-11-26.jpeg"
 
 ---
 Posso realizzare biglietti di auguri unici per te ed i tuoi cari.
