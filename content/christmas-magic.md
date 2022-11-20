@@ -3,7 +3,7 @@ title: La Magia Del Natale A Casa Tua
 date: 2019-05-14T08:46:10.000+00:00
 description: Natale
 type: post
-image: "/images/whatsapp-image-2022-11-01-at-18-31-53.jpeg"
+image: "/images/villaggio_natale.png"
 categories:
 - Natale
 - Biglietti
