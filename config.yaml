@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '25'
+summaryLength: "10"
+paginate: "25"
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/letterify-logo-180x147.jpeg
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
@@ -70,7 +70,7 @@ menu:
   main:
   - URL: about
     name: About
-    weight: 1
+    weight: "1"
   - URL: contact
     name: Contact
-    weight: 3
+    weight: "3"
